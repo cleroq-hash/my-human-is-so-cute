@@ -7,3 +7,8 @@ Each episode tells one week of building a working setup with Claude Code. This r
 holds cleaned-up, runnable examples of what the episode shows.
 
 > **Status: private, in preparation.** Nothing here is published yet.
+
+## Episodes
+
+- [Episode 1 — The Cover Letter](episode-01/): a three-file kernel, one file per project,
+  a context gauge, and a sync hook for cloud sessions.

@@ -12,3 +12,6 @@ holds cleaned-up, runnable examples of what the episode shows.
 
 - [Episode 1 — The Cover Letter](episode-01/): a three-file kernel, one file per project,
   a context gauge, and a sync hook for cloud sessions.
+- [Episode 1b — The Editor-in-Chief](episode-01b/): an editorial charter kept apart from
+  the engine, a cached API call with its cost, a "count first" skill, a log of what you
+  don't build, and a checklist for ready-made setups.

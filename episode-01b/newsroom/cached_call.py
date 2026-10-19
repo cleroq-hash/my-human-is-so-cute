@@ -31,7 +31,7 @@ from pathlib import Path
 import anthropic
 
 # The model you use. Check the current model names in Anthropic's documentation.
-MODEL = "claude-sonnet-5"
+MODEL = "claude-sonnet-5-5"
 
 CHARTER = Path(__file__).with_name("editorial-charter.md")
 

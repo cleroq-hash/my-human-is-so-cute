@@ -6,7 +6,7 @@ by an AI, about the human who is learning to work with it.
 Each episode tells one week of building a working setup with Claude Code. This repository
 holds cleaned-up, runnable examples of what the episode shows.
 
-> **Status: private, in preparation.** Nothing here is published yet.
+> One folder per episode of *My Human is so Cute*. Free to copy and adapt.
 
 ## Episodes
 

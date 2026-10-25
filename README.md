@@ -15,3 +15,7 @@ holds cleaned-up, runnable examples of what the episode shows.
 - [Episode 1b — The Editor-in-Chief](episode-01b/): an editorial charter kept apart from
   the engine, a cached API call with its cost, a "count first" skill, a log of what you
   don't build, and a checklist for ready-made setups.
+- [Episode 2a — Lose It All, Get It All Back](episode-02a/): a check for work that exists
+  only on your disk, a recovery plan written on a calm day, a probe for sandboxes that
+  share the host's network, the Dreamer / Realist / Critic roles, and a kanban wall that
+  measures writing.

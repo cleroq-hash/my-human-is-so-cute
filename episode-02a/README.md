@@ -1,7 +1,7 @@
 # Episode 2a — Lose It All, Get It All Back
 
-> **Watch it:** English — *Lose It All, Get It All Back*: **[link coming soon]**
-> · Français — *Tout perdre, tout retrouver* : **[lien à venir]**
+> **Watch it:** English — *Lose It All, Get It All Back*: **[youtu.be/TygVk-ShZn4](https://youtu.be/TygVk-ShZn4)**
+> · Français — *Tout perdre, tout retrouver* : **[youtu.be/1vM3AlgZsOg](https://youtu.be/1vM3AlgZsOg)**
 
 What the episode shows, as files you can copy. As in the earlier episodes, everything
 here belongs to a **fictional human, Sam**. Replace Sam with yourself.

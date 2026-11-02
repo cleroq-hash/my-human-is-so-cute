@@ -19,3 +19,6 @@ holds cleaned-up, runnable examples of what the episode shows.
   only on your disk, a recovery plan written on a calm day, a probe for sandboxes that
   share the host's network, the Dreamer / Realist / Critic roles, and a kanban wall that
   measures writing.
+- [Episode 2b — Who Said That?](episode-02b/): three agent cards that say what each role
+  may not do, a guard that keeps the tester from writing, and a convention that marks the
+  human's words rather than the AI's.

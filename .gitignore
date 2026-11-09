@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 .env
+
+# Approbations locales de Claude Code : peuvent contenir des commandes avec secrets.
+# Le .gitignore global du poste les exclut déjà ; celui-ci voyage avec le dépôt (cloud).
+.claude/settings.local.json
